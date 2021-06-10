@@ -1,5 +1,6 @@
 <?php
 
+//Replace this cookie with one from your browser (the one here won't work, but im leaving it here so you know what to look for)
 $cookieFile = "_ga=GA1.2.235854238.1621906150; _gid=GA1.2.1451323342.1623332059; io=L6ywU1M-TqlJtBDUBXfO; XSRF-TOKEN=eyJpdiI6InVtWU53SXpRQ2tCc3FPS2d4OEVCd1E9PSIsInZhbHVlIjoiXC9TRkRNSVZHdndoVCtTZG1ndWJGRmZoQ2hjS1wvcWJcL0FuR3hZMitZRnVpS1NTSHFpQ1RZM3FIMlNhQzhIN0VvbyIsIm1hYyI6IjQ3NTlmOWZhM2M1MjE3YjRkZDE2YmY5MGJjZGRhMGMwOTJkMWZhNjkwNWJkZDhkZGRlMDdmMWQxMjRlMmRjNzkifQ%3D%3D; hm_session=eyJpdiI6IlJQdzl2VUlyZmxlaXZDUlIrZE9iZHc9PSIsInZhbHVlIjoiNWpcL0dYYzFkVExiOVpleFZuUjBzcGowNUo4aXpaVmE4RzZPS1diOHBvSDFCU2ErdnlqZUIrOVI2dzZlcHdtTjUiLCJtYWMiOiI2YzJiMWRkY2Q0NzRiZDdiYWJhNmM2NTk2MTA5YmY0NzQ0Yzg3MGZiNmE4OWZjMzhjZGU0ZmE1MGIyMzM1ZGQ5In0%3D; locale=eyJpdiI6IlwvUWQzaEd0R1ppVEtIanlCUFZCSWFBPT0iLCJ2YWx1ZSI6IlVVc3NTaGt2RDR0OGo4bmw4SnhiOEE9PSIsIm1hYyI6ImQwNjIxNmMzMTA3YjczMTE1ODVlYzY0YzRkN2I3ZTkzZjQwNTFkZWU2ZmVhNDllODFkZWVmYTcxNjJjMTdjZWIifQ%3D%3D; _gat=1";
 
 $types = array("Pfizer 2nd dose"=>5394,"Moderna 2nd dose"=>5396);
