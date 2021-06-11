@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="refresh" content="0;url='https://portal.healthmyself.net/login?site_slug=walmarton'" />
+
+        <title>Redirecting to https://portal.healthmyself.net/login?site_slug=walmarton</title>
+    </head>
+    <body>
+        Redirecting to <a href="https://portal.healthmyself.net/login?site_slug=walmarton">https://portal.healthmyself.net/login?site_slug=walmarton</a>.
+    </body>
+</html>
