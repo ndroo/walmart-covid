@@ -29,7 +29,13 @@ foreach($types as $key => $val) {
 	$loc_ids = array_merge($result->data,$loc_ids);
 }
 
-$loc_ids = array_unique($loc_ids);
+$unique_ids = array();
+
+foreach($loc_ids as $obj) {
+        $unique_ids[] = $obj->id;
+}
+
+$loc_ids = array_unique($unique_ids);
 
 while(1) {
 	for($i = 0; $i < count($loc_ids);++$i) {
