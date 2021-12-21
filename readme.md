@@ -1,12 +1,14 @@
 You have two ways to run this:
 
-1. In your terminal using search.php
+1. In your terminal using search.php. To use this run:
 
-To use this run:
+  1. Replace the cookie in the search.php file with one from your browser (you'll need to inspect the requests to the walmart API from their website, copy the cookie and then paste it into the code)
+  2. Run: php search.php
+  3. Go book on the walmart website
 
-1. Replace the cookie in the search.php file with one from your browser (you'll need to inspect the requests to the walmart API from their website, copy the cookie and then paste it into the code)
-2. Run: php search.php
-3. Go book on the walmart website
+
+:::OR:::
+
 
 2. As a website using index.php
 
