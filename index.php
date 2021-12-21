@@ -217,7 +217,7 @@ if(isset($_REQUEST['action'])) {
 		}
 	</script>
 
-	<h1>Avalable bookings at Walmarts in Ontario</h1>
+	<h1>Available bookings at Walmarts in Ontario</h1>
 	<p>This website updates every ~20 seconds. The last update was <span id="age"></span></p>
 	<p><a href="https://portal.healthmyself.net/walmarton/forms/Dpd#/" target="_BLANK">Click here to make an appointment</a></p>
 
